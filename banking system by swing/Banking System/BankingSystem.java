@@ -22,7 +22,7 @@ import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 
 /**
- * @author Arijit
+ * @author Pratik
  *
  */
 public class BankingSystem extends JFrame {
